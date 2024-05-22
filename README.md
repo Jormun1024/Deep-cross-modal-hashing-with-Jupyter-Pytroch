@@ -4,3 +4,5 @@
 <br />|---------| utils.py
 <br />|---------| data---------| FLICKR-25K.mat imagenet-vgg-f.mat
 <br />|---------| checkpoints--| image_model.pth text_model.pth
+<br />
+<br />clone from https://github.com/WendellGul/DCMH
