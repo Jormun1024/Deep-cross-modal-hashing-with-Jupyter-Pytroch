@@ -1,11 +1,11 @@
 # Deep-cross-modal-hashing-with-Jupyter-Pytroch
-必要的目录结构
-DCMH  | DCMH.ipynb
-      |
-      | utils.py
-      |
-      | data  | FLICKR-25K.mat
-      |       | imagenet-vgg-f.mat
-      |
-      | checkpoints  | image_model.pth
-                     | text_model.pth
+<br />必要的目录结构
+<br />DCMH  | DCMH.ipynb
+<br />      |
+<br />      | utils.py
+<br />      |
+<br />      | data  | FLICKR-25K.mat
+<br />      |       | imagenet-vgg-f.mat
+<br />      |
+<br />      | checkpoints  | image_model.pth
+<br />                     | text_model.pth
